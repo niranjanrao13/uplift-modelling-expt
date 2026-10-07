@@ -1,0 +1,6 @@
+# Python virtual environment folders
+venv/
+env/
+.venv/
+.env/
+causal-ml/
